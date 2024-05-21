@@ -7,7 +7,7 @@ This repository contains a series of laboratory reports documenting various fund
 
 # Reports Overview
 - 1.Basic Electrical Measurements
-    Goals: Understanding basic electrical measurements, determining the relationship between current and voltage across a resistor, and learning how to document experiments.
+- - Goals: Understanding basic electrical measurements, determining the relationship between current and voltage across a resistor, and learning how to document experiments.
     Equipment: Multimeter, stabilized power supply, resistors, and light bulbs.
     Procedure: Direct resistance measurement, series of voltage and current measurements.
     Results: Calculation of uncertainties and analysis of measurement results.
