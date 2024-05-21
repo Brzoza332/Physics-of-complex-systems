@@ -30,5 +30,5 @@ This repository contains a series of laboratory reports documenting various fund
 - Procedure: Recording I-V characteristics and measuring light wavelength.
 - Results: Calculation of Planck's constant using the experimental data.
 
-#Author
+# Author
 - Bartłomiej Brzozowski
