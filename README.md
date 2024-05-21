@@ -29,3 +29,6 @@ This repository contains a series of laboratory reports documenting various fund
 - Equipment: LEDs (red, blue, green), power supply, ammeter, voltmeter, monochromator.
 - Procedure: Recording I-V characteristics and measuring light wavelength.
 - Results: Calculation of Planck's constant using the experimental data.
+
+#Author
+- Bartłomiej Brzozowski
